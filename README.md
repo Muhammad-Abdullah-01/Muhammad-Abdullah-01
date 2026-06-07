@@ -67,7 +67,7 @@
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/muhammad-abdullah-97a0813aa">
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-97a0813aa">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <a href="mailto:m.abdullah12589@gmail.com">
@@ -112,9 +112,11 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Abdullah-01/Muhammad-Abdullah-01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Abdullah-01/Muhammad-Abdullah-01/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Muhammad-Abdullah-01/Muhammad-Abdullah-01/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Abdullah-01/Muhammad-Abdullah-01/output/github-contribution-grid-pacman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Abdullah-01/Muhammad-Abdullah-01/output/github-contribution-grid-pacman.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammad-Abdullah-01/Muhammad-Abdullah-01/output/github-contribution-grid-pacman.svg">
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5a19e245/images/footer.svg" width="100%">
