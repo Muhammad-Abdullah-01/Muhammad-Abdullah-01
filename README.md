@@ -6,7 +6,17 @@
 
 <p align="center"> <img width ="200px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Muhammad Abdullah" /> </p>
 
+---
 
+### 👨‍💻 About Me
+
+- 🔭 I build **Full-Stack Web Apps** using the MERN stack
+- 🤖 I work on **Artificial Intelligence** & Machine Learning projects
+- 💻 I develop **Software Solutions** for real-world problems
+- 📄 View my portfolio: [Portfolio Website](https:) 
+- 🌱 Always learning new technologies and solving problems
+- 📫 Reach me at **m.abdullah12589@gmail.com**
+---
 
 <h3 align="center">Full-Stack MERN Developer | AI Engineer | Software Developer 🚀</h3>
 
@@ -36,7 +46,7 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=keras" height="35" alt="keras logo" />
+  <img src="https://img.icons8.com/m_rounded/1200/keras.jpg" height="35" alt="keras logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="35" alt="scikitlearn logo" />
   <img width="8" />
@@ -44,7 +54,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="35" alt="jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo" />
 
 ### 💻 Systems & Low-Level
   <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo" />
@@ -68,20 +78,18 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
 
-</div>
-
-###
-
----
+### 🤝 Let's connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-abdullah-97a0813aa">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+    <img src="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" height="30" alt="linkedin logo" />
   </a>
   <a href="mailto:m.abdullah12589@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+    <img src="https://similarpng.com/_next/image?url=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fvery-thumbnail%2F2020%2F12%2FGmail-logo-design-on-transparent-background-PNG.png&w=3840&q=75" height="30" alt="gmail logo" />
   </a>
 </div>
+</div>
+---
 
 ###
 
@@ -92,17 +100,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammad-Abdullah-01/Muhammad-Abdullah-01/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-### 👨‍💻 About Me
-
-- 🔭 I build **Full-Stack Web Apps** using the MERN stack
-- 🤖 I work on **Artificial Intelligence** & Machine Learning projects
-- 💻 I develop **Software Solutions** for real-world problems
-- 🖥️ I have hands-on experience with **low-level programming** (NASM, COAL, RISC-V)
-- 🐧 Comfortable working on **Linux/Ubuntu** environments
-- 🌱 Always learning and exploring new technologies
-- 📫 Reach me at **m.abdullah12589@gmail.com**
 
 ---
 
