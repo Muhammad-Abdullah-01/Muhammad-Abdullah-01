@@ -1,49 +1,48 @@
 <h1 align="center">Hey 👋 I'm Muhammad Abdullah</h1>
 <h3 align="center">Full-Stack MERN Developer | AI Engineer | Software Developer 🚀</h3>
-<h4 align="center">📍 Lahore, Pakistan</h4>
 
 ###
 
 <div align="center">
 
 ### 🌐 Web Development
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo" />
 
 ### 🤖 AI / Machine Learning
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="35" alt="tensorflow logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=keras" height="50" alt="keras logo" />
+  <img src="https://skillicons.dev/icons?i=keras" height="35" alt="keras logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50" alt="scikitlearn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="35" alt="scikitlearn logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=jupyter" height="50" alt="jupyter logo" />
+  <img src="https://skillicons.dev/icons?i=jupyter" height="35" alt="jupyter logo" />
 
 ### 💻 Systems & Low-Level
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cpp logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="50" alt="ubuntu logo" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="35" alt="ubuntu logo" />
   <img width="8" />
   <img src="https://img.shields.io/badge/NASM-Assembly-red?style=for-the-badge&logo=assemblyscript&logoColor=white" height="35" alt="nasm" />
   <img width="8" />
@@ -52,13 +51,13 @@
   <img src="https://img.shields.io/badge/COAL-Assembly-darkgreen?style=for-the-badge&logoColor=white" height="35" alt="coal" />
 
 ### 🛠️ Tools & DevOps
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visual studio logo" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="visual studio logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo" />
 
 </div>
 
@@ -94,25 +93,23 @@
 - 🖥️ I have hands-on experience with **low-level programming** (NASM, COAL, RISC-V)
 - 🐧 Comfortable working on **Linux/Ubuntu** environments
 - 🌱 Always learning and exploring new technologies
-- 📍 Based in **Lahore, Pakistan**
 - 📫 Reach me at **m.abdullah12589@gmail.com**
 
 ---
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah-01&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abdullah-01&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph" />
-</div>
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Abdullah-01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
-
-###
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Muhammad-Abdullah-01">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhammad-Abdullah-01&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="Muhammad-Abdullah-01's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Muhammad-Abdullah-01&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Muhammad-Abdullah-01's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Muhammad-Abdullah-01&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Muhammad Abdullah's GitHub Trophies" />
+</p>
 
 ---
 
@@ -122,6 +119,6 @@
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="50%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="35%" />
   
 </div>
