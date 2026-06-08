@@ -1,4 +1,13 @@
-<h1 align="center">Hey 👋 I'm Muhammad Abdullah</h1>
+<h1 align="center">Hi, 👋 I'm Muhammad Abdullah</h1>
+
+<h3 align="center">Turning digital dreams into reality. ✨</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Abdullah-01&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Abdullah" /> </p>
+
+
+<p align="center"> <img width ="200px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif" alt="Muhammad Abdullah" /> </p>
+
+
+
 <h3 align="center">Full-Stack MERN Developer | AI Engineer | Software Developer 🚀</h3>
 
 ###
