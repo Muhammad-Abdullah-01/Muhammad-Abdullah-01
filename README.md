@@ -81,14 +81,12 @@
 ### 🤝 Let's connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-97a0813aa">
-    <img src="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png" height="30" alt="linkedin logo" />
-  </a>
-  <a href="mailto:m.abdullah12589@gmail.com">
-    <img src="https://similarpng.com/_next/image?url=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fvery-thumbnail%2F2020%2F12%2FGmail-logo-design-on-transparent-background-PNG.png&w=3840&q=75" height="30" alt="gmail logo" />
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-97a0813aa" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" height="35" alt="linkedin logo" />
   </a>
 </div>
 </div>
+
 ---
 
 ###
