@@ -124,7 +124,12 @@
 
 <br clear="both">
 
-
+<!--
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=Muhammad-Abdullah-01" alt="Top language" />
+</p>
+<br/>-->
 
 
 <div align="center">
