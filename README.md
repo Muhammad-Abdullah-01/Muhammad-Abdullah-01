@@ -18,7 +18,7 @@
 - 🔭 I build **Full-Stack Web Apps** using the MERN stack
 - 🤖 I work on **Artificial Intelligence** & Machine Learning projects
 - 💻 I develop **Software Solutions** for real-world problems
-- 📄 View my portfolio: [Portfolio Website](https://muhammad-abdullah-portfolio-nu.vercel.app/) 
+- 📄 View my portfolio: [Muhammad Abdullah's Portfolio Website](https://muhammad-abdullah-portfolio-nu.vercel.app/) 
 - 🌱 Always learning new technologies and solving problems
 - 📫 Reach me at **m.abdullah12589@gmail.com**
 ---
