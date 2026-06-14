@@ -19,7 +19,6 @@
 - 🤖 I work on **Artificial Intelligence** & Machine Learning projects
 - 💻 I develop **Software Solutions** for real-world problems
 - 📄 View my portfolio: [Muhammad Abdullah's Portfolio Website](https://muhammad-abdullah-portfolio-nu.vercel.app/)
-- <a href="https://muhammad-abdullah-portfolio-nu.vercel.app/" target="_blank">📄 View my portfolio: Muhammad Abdullah's Portfolio Website</a>
 - 🌱 Always learning new technologies and solving problems
 - 📫 Reach me at **m.abdullah12589@gmail.com**
 ---
